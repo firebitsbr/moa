@@ -9,7 +9,7 @@ authlib==0.13             # via -r requirements.in
 blinker==1.4              # via flask-mail, sentry-sdk
 blurhash==1.1.4           # via mastodon.py
 cairocffi==1.1.0          # via cairosvg
-cairosvg==2.4.2           # via -r requirements.in
+cairosvg==2.5.1           # via -r requirements.in
 certifi==2020.4.5.1       # via -r requirements.in, requests, sentry-sdk
 cffi==1.14.0              # via cairocffi, cryptography
 chardet==3.0.4            # via requests
